@@ -1,1 +1,10 @@
-
+ <xml>
+   <ID>1</ID>
+ <Summary>Registration passes when you enter characters through a space in the password field in the registration form",
+   "Precondition":"Open site</Summary>
+<Steps to reproduce>1,2,3,4,5,6</Steps to reproduce>
+   <Actual result>Registration passes when you enter characters through a space in the password field in the registration form</Actual result>
+<Expected result>Pop-up window with validation message</Expected result>
+<Environment>OS Windows 10 Pro", "Browser Google Chrome Version 93.0.4577.63 ( Official build)", "(64 bit)</Environment>
+ <priority/severity> </priority/severity>
+ <attachments>skreenshot</attachments>
